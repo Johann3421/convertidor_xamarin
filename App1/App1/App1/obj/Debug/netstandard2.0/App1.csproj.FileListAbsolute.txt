@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\USUARIO\Desktop\Convertidor\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
